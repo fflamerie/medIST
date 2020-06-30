@@ -67,6 +67,7 @@ Eastman, T., Saulnier, J., & Richardson, K. (2018). Ask a Catbrarian : Marketi
 Maseda, I., & Fernández-Baillo, S. (2017, décembre 15). _The Good, the Bad, and the Ugly : How to retrieve scientific articles from the Internet_ [Poster]. [http://eprints.rclis.org/32055/](http://eprints.rclis.org/32055/)</div>
 
 Murphree, L., White, M., & Renner, B. R. (2018). Reference Managers that Support Collaborative Research : Dreaming of the Perfect Fit. _Medical Reference Services Quarterly_, _37_(3), 219‑233\. [https://doi.org/10.1080/02763869.2018.1477706](https://doi.org/10.1080/02763869.2018.1477706)
+
 :point_right: voir la production du projet décrit : [https://guides.lib.unc.edu/compare-citation](https://guides.lib.unc.edu/compare-citation)
 
 Searle, S. (2014, septembre). A communication and marketing campaign for research data storage. _Sam Searle | Librarian and IT Professional_. [https://www.samsearle.net/2014/09/a-communication-and-marketing-campaign.html](https://www.samsearle.net/2014/09/a-communication-and-marketing-campaign.html)</div>
