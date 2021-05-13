@@ -1,6 +1,6 @@
 # Communiquer à destination des chercheurs : médiatiser l'information scientifique et technique auprès des chercheurs - Applications en bibliothèques
 
-Matériel de la demi-journée "Applications en bibliothèques" de la formation ["Communiquer à destination des chercheurs : médiatiser l'information scientifique et technique auprès des chercheurs"](https://sygefor.reseau-urfist.fr/#/training/7094/8608) le 2020-06-16, 13h30-16h30 - formation co-organisée par l'Enssib et l'Urfist Bordeaux.
+Matériel de la demi-journée "Applications en bibliothèques" de la formation **"Communiquer à destination des chercheurs : médiatiser l'information scientifique et technique auprès des chercheurs"** co-organisée par l'Enssib et l'Urfist Bordeaux en 2020, par l'Enssib en 2021.
 
 La formation a eu lieu à distance grâce à la plateforme Moodle de l'Enssib et à l'outil de visioconférence intégré BigBlueButton.
 
@@ -10,9 +10,9 @@ La formation a eu lieu à distance grâce à la plateforme Moodle de l'Enssib et
 
 Le matériel est composé des éléments suivants.
 
-* Support de formation : diaporama au [format .md](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2020_support.md) et au [format .pdf](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2020_support.pdf)
-  * TP1 :  [Etude de cas sur un sujet : ORCID](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2020_TP1_sujet.md)
-  * TP2 : [Poursuite des actions imaginées à la fin de la J1](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2020_TP2_suite-J1.md)
+* Support de formation : diaporama au [format .pptx](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2021_support_diff.pptx) et au [format .pdf](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2021_support_diff.pdf)
+  * TP1 :  [Etude de cas sur un sujet : ORCID](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_TP1_sujet.md)
+  * TP2 : [Poursuite des actions imaginées à la fin de la J1](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_TP2_suite-J1.md)
 * Ressources bibliographiques : [groupe public Zotero "Formation MedIST-J2PM"](https://www.zotero.org/groups/2336778/formation_medist-j2pm)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
@@ -20,7 +20,7 @@ Le matériel est composé des éléments suivants.
 
 ## Descriptif de la formation complète
 
-_Descriptif de la formation tel que publié sur le site de l'Enssib : [fiche de la formation sur le site de l'Enssib](https://www.enssib.fr/ftlv/communiquer-destination-des-chercheurs-mediatiser-linformation-scientifique-et-technique-0)_
+_Descriptif de la formation tel que publié sur le site de l'Enssib_
 
 
 ### Compétences visées
