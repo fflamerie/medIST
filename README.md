@@ -4,15 +4,15 @@ Matériel de la demi-journée "Applications en bibliothèques" de la formation *
 
 La formation a eu lieu à distance grâce à la plateforme Moodle de l'Enssib et à l'outil de visioconférence intégré BigBlueButton.
 
-:link: Dans le support de cours mis à disposition, des liens ont été modifiés (liens pointant vers des contenus sur Moodle soumis à authentification, vers un sondage Framadate, etc.).
+:link: Dans le support de cours mis à disposition, des liens ont été supprimés (liens pointant vers des contenus sur Moodle soumis à authentification, vers un sondage Framadate, etc.).
 
 ## Matériel de la demi-journée "Applications en bibliothèques"
 
 Le matériel est composé des éléments suivants.
 
-* Support de formation : diaporama au [format .pptx](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2021_support_diff.pptx) et au [format .pdf](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_2021_support_diff.pdf)
-  * TP1 :  [Etude de cas sur un sujet : ORCID](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_TP1_sujet.md)
-  * TP2 : [Poursuite des actions imaginées à la fin de la J1](https://github.com/fflamerie/mediatiser_ist_2020/blob/master/content/medIST_TP2_suite-J1.md)
+* Support de formation : diaporama au [format .pptx](https://github.com/fflamerie/medIST/blob/master/content/medIST_2021_support_diff.pptx) et au [format .pdf](https://github.com/fflamerie/medIST/blob/master/content/medIST_2021_support_diff.pdf)
+  * TP1 :  [Etude de cas sur un sujet : ORCID](https://github.com/fflamerie/medIST/blob/master/content/medIST_TP1_sujet.md)
+  * TP2 : [Poursuite des actions imaginées à la fin de la J1](https://github.com/fflamerie/medIST/blob/master/content/medIST_TP2_suite-J1.md)
 * Ressources bibliographiques : [groupe public Zotero "Formation MedIST-J2PM"](https://www.zotero.org/groups/2336778/formation_medist-j2pm)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
