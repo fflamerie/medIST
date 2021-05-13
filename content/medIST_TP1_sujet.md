@@ -17,11 +17,11 @@ _Vous pouvez indiquer seulement un caractère à la place de votre nom._
 _Ces ressources sont fournies sous forme de fichier image sans mention de source ni d'auteur aux participants. Dans la mesure du possible on a aussi effacé ces mentions des ressources elles-mêmes._
 
 *  Ressource 1 : infographie :link: lien vers le fichier PDF ORCID_1
-*   Ressource 2 : page web : :link: lien vers le fichier PDF ORCID_2
-*   Ressource 3 : objets promotionnels :link: lien vers le fichier PDF ORCID_3
-*   Ressource 4 : poster : :link: lien vers le fichier PDF ORCID_4
-*   Ressource 5 : article de vulgarisation :link: lien vers le fichier JPG ORCID_5
-*   Ressource 6 : guide : :link: lien vers le fichier ORCID_6
+*  Ressource 2 : page web : :link: lien vers le fichier PDF ORCID_2
+*  Ressource 3 : objets promotionnels :link: lien vers le fichier PDF ORCID_3
+*  Ressource 4 : poster : :link: lien vers le fichier PDF ORCID_4
+*  Ressource 5 : article de vulgarisation :link: lien vers le fichier JPG ORCID_5
+*  Ressource 6 : guide : :link: lien vers le fichier ORCID_6
 
 ## Résultats du vote Framadate
 
