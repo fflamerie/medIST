@@ -1,24 +1,23 @@
-# Poursuite des actions imaginées à la fin de la J1
+# Réflexion et travail sur un thème au choix
 
 ## Description et modalités
 
-Pour cette activité, il s'agit d'effectuer un retour sur les actions de communication que vous avez imaginées à la fin de la journée du 9 juin, et de les prolonger à partir des ressources fournies ci-dessous et/ou de celles que vous aurez pu identifier.
+Il s'agit de travailler sur un thème et/ou une action de votre choix, soit en prolongeant une activité initiée au cours de la 1ère journée de la formation (argumentaire pour convaincre un jeune chercheur de déposer en open access ), soit en considérant un autre thème.
+
+Vous pouvez utiliser les ressources fournies ci-dessous et/ou des ressources que vous aurez pu identifier.
 
 Plusieurs modalités pratiques sont possibles.
 
- * Vous pouvez commencez à travailler sur cette activité dès le 10 juin -> un temps de préparation de 20 minutes environ est de toutes les façons prévu le 16 juin après-midi.
- * Vous pouvez choisir de travailler seul ou de constituer un groupe pour travailler **sur une seule action** -> la fonctionnalité de salles de groupe de BigBlueButton sera activée le 16 juin si nécessaire pour vous permettre d'échanger pendant le temps de préparation.
+* Vous pouvez commencez à travailler sur cette activité dès le 1er juin -> un temps de préparation de 20 minutes environ est de toutes les façons prévu le 8 juin après-midi.
+* Vous pouvez choisir de travailler seul ou de constituer un groupe pour travailler sur un seul thème et/ou action -> la fonctionnalité de salles de groupe de BigBlueButton sera activée le 16 juin si nécessaire pour vous permettre d'échanger pendant le temps de préparation.
 
 Vous pouvez aborder cette activité de différents points de vue, non exclusifs les uns des autres.
 
-*  Vous pouvez enrichir, modifier, réorienter l’action imaginée à partir des ressources fournies ou d'autres ressources que vous aurez identifiées.
-*  Vous pouvez privilégier l'évaluation des ressources fournies correspondant au thème de votre action : quelles ressources seraient-elles réutilisables? Comment les adapter? Ou au contraire quels sont les contre-exemple? Pourquoi?
+* Vous pouvez enrichir, modifier, réorienter l’action imaginée au cours de la 1ère journée de la formation à partir des ressources fournies ou d'autres ressources que vous aurez identifiées.
 
-Pour faciliter la **restitution** auprès du groupe entier, prévoyez de préparer un **fichier PDF** : le rôle de "Présentateur" vous sera assigné dans BigBlueButton et vous aurez simplement à télécharger votre fichier pour qu'il soit affiché dans l'interface. Le partage d'écran est moins immédiat à mettre en place et davantage sujet à des aléas techniques.
+* Vous pouvez privilégier l'évaluation des ressources fournies correspondant au thème que vous avez choisi : quelles ressources seraient-elles réutilisables? Comment les adapter? Ou au contraire quels sont les contre-exemple? Pourquoi?
 
-## Restitution -> le Café recherche
-
-:link: Projet pour de Café recherche préparé par des participants.
+Pour faciliter la restitution auprès du groupe entier, prévoyez de préparer un fichier PDF : le rôle de "Présentateur" vous sera assigné dans BigBlueButton et vous aurez simplement à télécharger votre fichier pour qu'il soit affiché dans l'interface. Le partage d'écran est moins immédiat à mettre en place et davantage sujet à des aléas techniques.
 
 ## Ressources
 
@@ -63,6 +62,8 @@ Danish e-Infrastructure Cooperation. (2018). _FAIR for Beginners_. eScience Vide
 Doster-Greenleaf, K., & Stalker, A. (2018). Hooking your Audience : Tailored Instruction Marketing. _Marketing Libraries Journal_, _2_(1), 67‑74.
 
 Eastman, T., Saulnier, J., & Richardson, K. (2018). Ask a Catbrarian : Marketing Library Services Using a Cat. _Marketing Libraries Journal_, _2_(1), 7.
+
+Fink, P.-A. (2021). _Trainings and Workshops : Home [Today’s Menu Pick courses according to your tastes, needs and profile]_. LibGuides - Graduate Institute of International and Development Studies. [https://libguides.graduateinstitute.ch/library_courses_trainings_workshops](https://libguides.graduateinstitute.ch/library_courses_trainings_workshops)
 
 Maseda, I., & Fernández-Baillo, S. (2017, décembre 15). _The Good, the Bad, and the Ugly : How to retrieve scientific articles from the Internet_ [Poster]. [http://eprints.rclis.org/32055/](http://eprints.rclis.org/32055/)</div>
 
